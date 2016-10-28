@@ -20,7 +20,7 @@
                 autoplay: 1
         }, options );
 
-        $(this).on('click', function (e) {
+        $(this).on('click touch touchstart', function (e) {
 
             var youtubeLink = $(this).attr("href");
 
