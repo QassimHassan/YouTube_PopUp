@@ -118,7 +118,7 @@ body.logged-in .YouTubePopUp-Wrap{ /* For WordPress */
     margin:auto 0;
     width:24px;
     height:24px;
-    background:url(../images/close.png) no-repeat;
+    background:url(./close.png) no-repeat;
     background-size:24px 24px;
     -webkit-background-size:24px 24px;
     -moz-background-size:24px 24px;
