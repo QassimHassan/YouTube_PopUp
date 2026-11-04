@@ -1,10 +1,6 @@
 # YouTube PopUp jQuery Plugin
 jQuery plugin to display YouTube video or Vimeo video in PopUp, responsive &amp; retina, Compatible with WordPress, Autoplay support, easy to use.
 
-##Live Demo
-
-http://wp-time.com/youtube-popup-jquery-plugin/
-
 ##Usage
 
 Easy to use, include jQuery and YouTubePopUp plugin and Style:
@@ -29,10 +25,8 @@ Now add class to links, for example:
     <a class="bla-1" href="https://vimeo.com/81527238">With Autoplay</a>
     <a class="bla-2" href="https://vimeo.com/81527238">Without Autoplay</a>
 
-For WordPress use Video PopUp plugin: http://wp-time.com/video-popup-plugin-for-wordpress/
+For WordPress use Video PopUp plugin: https://wp-time.com/video-popup-plugin-for-wordpress/#live-demos
 
-Enjoy.
-
-YouTubePopUp.js Plugin and Style by Qassim Hassan: https://twitter.com/QQQHZ
-
-WP Time: http://wp-time.com
+Enjoy,
+WPTime.
+https://wp-time.com
