@@ -1,0 +1,28 @@
+{
+  "name": "youtube_popup",
+  "version": "1.0.0",
+  "description": "YouTube PopUp is jQuery plugin to display YouTube or Vimeo in PopUp, compatible with WordPress, jQuery Plugin by Qassim Hassan – Owner of WP Time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanyamMulay/YouTube_PopUp.git"
+  },
+  "keywords": [
+    "YouTube",
+    "PopUp",
+    "YouTube",
+    "PopUp",
+    "jQuery",
+    "plugin",
+    "Vimeo"
+  ],
+  "author": "Qassim Hassan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SanyamMulay/YouTube_PopUp/issues"
+  },
+  "homepage": "https://github.com/SanyamMulay/YouTube_PopUp#readme"
+}
